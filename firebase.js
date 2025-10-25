@@ -6,12 +6,12 @@ import { getStorage } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-s
 
 // GANTI ISI CONFIG INI DENGAN PUNYAMU
 const firebaseConfig = {
-  apiKey: "AIzaSyCKwFNQ4Fd6yoqjQTNhITdMXIZ0JNjD-lM",
-  authDomain: "chat-message-421f7.firebaseapp.com",
-  projectId: "chat-message-421f7",
-  storageBucket: "chat-message-421f7.appspot.com",
-  messagingSenderId: "860970016891",
-  appId: "1:860970016891:web:7483785c5338418fb442de"
+  apiKey: "AIzaSyBVTYn9PwXSM3g7FEIWWVgkeh-86N7LOEU",
+  authDomain: "dischat-8284.firebaseapp.com",
+  projectId: "dischat-8284",
+  storageBucket: "dischat-8284.firebasestorage.app",
+  messagingSenderId: "348125258399",
+  appId: "1:348125258399:web:1cdbd6cb89580e80eff8aa"
 };
 
 const app = initializeApp(firebaseConfig);
